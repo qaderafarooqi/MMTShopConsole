@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMTShopConsole", "MMTShopConsole\MMTShopConsole.csproj", "{9F7CFADC-3FAD-4A09-A947-EB3F4DF4791D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7CFADC-3FAD-4A09-A947-EB3F4DF4791D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7CFADC-3FAD-4A09-A947-EB3F4DF4791D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7CFADC-3FAD-4A09-A947-EB3F4DF4791D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7CFADC-3FAD-4A09-A947-EB3F4DF4791D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17DF4687-5247-4A24-A34C-33B1271B228D}
+	EndGlobalSection
+EndGlobal
